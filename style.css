@@ -1,12 +1,12 @@
 
-
+/* Sätter vad backgrundsfärgen kommer vara. */
 body {
     background-color:rgb(125, 202, 125) 
 }
 
 
 
-/* Classen för att style välkommningstiteln. */
+/* Classen för att styla välkommningstiteln. */
 .welcome-title {
 
     position: relative;
