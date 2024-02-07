@@ -1,16 +1,14 @@
 
-/* Sätter vad backgrundsfärgen kommer vara. */
+/* Sätter backgrundsfärgen. */
 body {
     background-color:rgb(125, 202, 125) 
 }
-
-
 
 /* Classen för att styla välkommningstiteln. */
 .welcome-title {
 
     position: relative;
-    background-color: rgb(74, 196, 186);
+    background-color: rgb(75, 195, 185);
     width: 99%;
     line-height: 60px;
     border-radius: 10%;
@@ -21,7 +19,6 @@ body {
 }
 
 /* alignar bilder i mitten av skärmen */
- 
 .middle-align-img {
     display: block;
     width: 70%;
@@ -31,7 +28,6 @@ body {
 }
 
 /* alignar bilder i mitten av skärmen fast med några ändringar från middle-align-img*/
- 
 .middle-align-small-img {
     display: block;
     width: 30%;
@@ -46,6 +42,7 @@ body {
     margin-left: 35%;
     margin-right: auto;
     background-image: "sthml.png";
+
 }
 
 
@@ -56,4 +53,5 @@ body {
     margin-right: auto;
     background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/4a/Color_changing_gradient_rainbow.gif);
     background-repeat: no-repeat;
+
 }
